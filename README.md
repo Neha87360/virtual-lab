@@ -3,7 +3,7 @@
 
 <b>Discipline | <b>Information Technology
 :--|:--|
-<b> Lab | <b> Virtual Lab
+<b> Lab | <b> VR Lab
 <b> Experiment|     <b> Breakdown Testing of Transformer Oil Using a virtual sphere gap
 
 ### About the Experiment 
