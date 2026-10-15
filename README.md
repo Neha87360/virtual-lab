@@ -1,24 +1,23 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Information Technology
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual Lab
+<b> Experiment|     <b> Breakdown Testing of Transformer Oil Using a virtual sphere gap
 
 ### About the Experiment 
+My experiment is Breakdown Testing of Transformer Oil Using a virtual sphere gap
 
-Fill a brief description of this experiment here
-
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Neha
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Rajkiya Engineering College Banda | <b>  
+<b> Email Id|     <b>  nn4028598@gmail.com
+<b> Department |  Information Technology
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Neha| Student | Information Technology | Rec Banda | nn4028598@gmail.com
 2 | . | . | . | . | .
